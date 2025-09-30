@@ -1,2 +1,2 @@
-# OpenSource
-# 개인 관심사 뉴스 추천&요약 시스템
+# OpenSource - Team Project
+개인 관심사 뉴스 추천&요약 시스템
